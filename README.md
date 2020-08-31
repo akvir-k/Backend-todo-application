@@ -33,3 +33,5 @@ Now, you need to install postman, that helps you to develop APIs and getting res
 ```$ sudo apt-get install snap```
 ```$ snap install postman```
 
+Note: use hidden.env file as a .env file.
+
